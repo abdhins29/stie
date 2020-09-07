@@ -1,0 +1,40 @@
+#body .container{
+	border: 2px solid black;
+	border-radius: 10px;
+	background-color: lightgrey;
+}
+#body header{
+	border-bottom: 2px solid black;
+	text-align: center;
+	color: black;
+	background-color: lime;
+	display: block
+}
+#body h3{
+	padding-top: 10px;
+}
+#body legend{
+	margin-top: 10px;
+	border: 2px solid black;
+	border-radius: 10px;
+	background-color: lime;
+}
+#body legend h4{
+	text-align: center;
+	color: black;
+}
+#body legend h5{
+	text-align: justify;
+	color: black;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+footer{
+	background-color: black;
+}
+footer .container{
+	background-color: grey;
+	text-align: center;
+	color: white;
+	padding-top: 5px;
+}

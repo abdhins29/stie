@@ -1,0 +1,29 @@
+.navbar-inverse .navbar-brand{
+	border: transparent;
+	margin-top: 5px;
+	border-radius: 10px;
+	color: white;
+	font-size: 30px;
+	font-family: helvatica;
+}
+.navbar-inverse .navbar-right{
+	font-family: helvatica;
+	padding: 5px;
+}
+.navbar-inverse .navbar-nav li a:hover{
+	color: white;
+}
+.navbar-inverse .navbar-nav li a:focus, .navbar-inverse .navbar-nav li a:hover{
+	color: black;
+	background: white;
+}
+.navbar-inverse .navbar-nav .active a,
+.navbar-inverse .navbar-nav .active a:hover,
+.navbar-inverse .navbar-nav .active a:focus{
+    background: white;
+    color: black;
+}
+#header .dropdown-menu a:hover{
+	background: black;
+	color: white;
+}

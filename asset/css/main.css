@@ -1,0 +1,30 @@
+form {
+	margin-top: 100px;
+}
+.container {
+	max-width: 350px;
+	border: 2px solid black;
+	border-radius: 10px;
+	background-color: limegreen;
+	padding-bottom: 15px;
+}
+.container h2 {
+	text-align: center;
+	color: black;
+	text-decoration-line: underline;
+	border: 2px lime;
+	background-color: lime;
+	padding: 10px;
+	border-radius: 10px;
+}
+.form-control {
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+.container a {
+	color: blue;
+}
+.container button{
+	background-color: blue;
+	color: black;
+}

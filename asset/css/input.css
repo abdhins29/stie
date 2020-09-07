@@ -1,0 +1,24 @@
+#body .container{
+	margin-top: 50px;
+	padding-bottom: 10px;
+	border: 2px solid black;
+	background-color: lightgrey;
+	border-radius: 5px;
+}
+#body h2{
+	text-align: center;
+	font-family: helvatica;
+	color: black;
+	background: lime;
+	padding: 10px;
+	border-bottom: 2px solid black;
+}
+#body .form-control{
+	margin-bottom: 5px;
+	background-color: lime;
+	color: black;
+}
+.container button{
+	background-color: blue;
+	color: black;
+}
